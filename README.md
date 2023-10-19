@@ -1,1 +1,2 @@
 # ReportHandler
+Handles reports
